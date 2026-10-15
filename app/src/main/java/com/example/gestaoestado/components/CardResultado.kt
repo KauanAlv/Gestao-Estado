@@ -1,4 +1,4 @@
-package com.example.gestaoestado.Components
+package com.example.gestaoestado.components
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
